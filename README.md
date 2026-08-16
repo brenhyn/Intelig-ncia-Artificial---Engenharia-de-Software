@@ -4,8 +4,7 @@ Repositório para armazenar as atividades, exercícios e projetos desenvolvidos 
 
 ## Estrutura
 
-- atividades/ — Exercícios e listas propostas em aula
-- projetos/ — Projetos maiores e trabalhos avaliativos
+- Atividades/ — Exercícios e listas propostas em aula
 
 ## Objetivo
 
